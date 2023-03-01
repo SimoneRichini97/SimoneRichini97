@@ -1,4 +1,6 @@
-Hi fellow visitor! 👋 I'm just a guy who has always been attracted by computers and generally everything that regards technology.
+# Hi fellow visitor! 👋 
+
+I'm just a guy who has always been attracted by computers and generally everything that regards technology.
 
 This is why I decided to study at UniMi to achieve a bachelor's degree in cyber security and then work as a Software Developer. 💻
 
