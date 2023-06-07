@@ -1,10 +1,10 @@
 <h1 align="center">Hi fellow visitor 👋</h1>
-<h5 align="center">💻 I'm Simone Richini, I've always been interested in computers and generally everything that regards technology, this is why I decided to become a software engineer.</h3>
-<h6 align="center">👨‍🎓 Graduated with a bachelor degree at UniMi</h3>
+<h3 align="center">💻 I'm Simone Richini, I've always been interested in computers and generally everything that regards technology, this is why I decided to become a software engineer.</h3>
+<h4 align="center">👨‍🎓 Graduated with a bachelor degree at UniMi</h3>
 
-<h5 align="left">Currently, I'm a backend engineer at <a href="https://www.claranet.it/">Claranet Italy</a></h3>
+<h3 align="left">Currently, I'm a backend engineer at <a href="https://www.claranet.it/">Claranet Italy</a></h3>
 
-<h6 align="left">Technologies i'm working with:</h3>
+<h4 align="left">Technologies i'm working with:</h3>
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/amazonwebservices.png" alt="aws" width="40" height="40"/>
