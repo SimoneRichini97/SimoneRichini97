@@ -9,7 +9,7 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/amazonwebservices.png" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png" alt="aws" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" alt="aws" width="40" height="40"/>
